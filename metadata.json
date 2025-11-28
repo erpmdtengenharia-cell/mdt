@@ -1,0 +1,5 @@
+{
+  "name": "MDT Engenharia ERP",
+  "description": "Sistema de gestão para MDT Engenharia com controle de clientes, contratos e itens de serviço, com controle de acesso por nível de usuário.",
+  "requestFramePermissions": []
+}
